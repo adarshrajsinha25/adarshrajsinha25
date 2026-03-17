@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Adarsh Raj
 
-🚀 Java Backend Developer | Microservices Architect | AWS Enthusiast
+🚀 Java Backend Developer | Microservices | AWS Engineer |
 
 I build **scalable, production-grade systems** using **Spring Boot, Microservices, and Cloud technologies**.
-Currently focused on mastering **System Design + Distributed Systems + FAANG-level backend engineering**.
+Currently focused on mastering **System Design + Distributed Systems + backend engineering**.
 
 ---
 
@@ -11,7 +11,7 @@ Currently focused on mastering **System Design + Distributed Systems + FAANG-lev
 
 * 🧠 Design scalable **Microservices Architectures**
 * ⚙️ Build backend systems using **Spring Boot & Java**
-* ☁️ Work with **AWS (EC2, S3, IAM, Amazon Connect)**
+* ☁️ Work with **AWS (EC2, S3, IAM, LAMBDA, RDS)**
 * 📊 Develop real-time **Analytics & Dashboard systems**
 * 🔄 Implement **Event-Driven Systems (Kafka/RabbitMQ)**
 
@@ -20,7 +20,7 @@ Currently focused on mastering **System Design + Distributed Systems + FAANG-lev
 ## 🛠️ Tech Stack
 
 **Languages:**
-Java, Python, JavaScript
+Java, Python, JavaScript, 
 
 **Backend:**
 Spring Boot, Spring Security, Hibernate, JPA
@@ -32,7 +32,7 @@ API Gateway, Kafka, Circuit Breaker, Saga, CQRS
 React.js
 
 **Database:**
-PostgreSQL, MongoDB
+PostgreSQL, MongoDB, Mysql
 
 **DevOps & Cloud:**
 AWS, Docker, Nginx
@@ -45,7 +45,7 @@ AWS, Docker, Nginx
 * 🔹 Microservices Communication Patterns
 * 🔹 Distributed Tracing (Zipkin)
 * 🔹 CI/CD & Dockerization
-* 🔹 Building FAANG-level projects
+* 🔹 Building microservices and cloud based projects
 
 ---
 
