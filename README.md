@@ -1,83 +1,170 @@
 # 👋 Hi, I'm Adarsh Raj
 
-🚀 Java Backend Developer | Microservices | AWS Engineer |
+### Backend Engineer | Java | Distributed Systems | Microservices | AWS
 
-I build **scalable, production-grade systems** using **Spring Boot, Microservices, and Cloud technologies**.
-Currently focused on mastering **System Design + Distributed Systems + backend engineering**.
+I am a backend engineer passionate about building scalable, reliable, and production-grade distributed systems. My expertise lies in designing cloud-native applications, event-driven architectures, and high-performance backend services using Java and Spring Boot.
 
----
-
-## 🔥 What I Do
-
-* 🧠 Design scalable **Microservices Architectures**
-* ⚙️ Build backend systems using **Spring Boot & Java**
-* ☁️ Work with **AWS (EC2, S3, IAM, LAMBDA, RDS)**
-* 📊 Develop real-time **Analytics & Dashboard systems**
-* 🔄 Implement **Event-Driven Systems (Kafka/RabbitMQ)**
+I enjoy solving complex engineering challenges, designing resilient systems, and continuously improving my understanding of large-scale software architecture.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-**Languages:**
-Java, Python, JavaScript, 
-
-**Backend:**
-Spring Boot, Spring Security, Hibernate, JPA
-
-**Microservices:**
-API Gateway, Kafka, Circuit Breaker, Saga, CQRS
-
-**Frontend:**
-React.js
-
-**Database:**
-PostgreSQL, MongoDB, Mysql
-
-**DevOps & Cloud:**
-AWS, Docker, Nginx
+* Backend Development with Java & Spring Boot
+* Microservices Architecture
+* Distributed Systems Design
+* Event-Driven Architecture (Kafka)
+* RESTful API Development
+* Cloud-Native Applications
+* System Design (LLD & HLD)
+* Database Design & Optimization
+* CI/CD & Containerization
 
 ---
 
-## 🏗️ Current Focus
+## 🛠️ Technology Stack
 
-* 🔹 Advanced System Design (Low Level + High Level)
-* 🔹 Microservices Communication Patterns
-* 🔹 Distributed Tracing (Zipkin)
-* 🔹 CI/CD & Dockerization
-* 🔹 Building microservices and cloud based projects
+### Languages
+
+* Java
+* Python
+* JavaScript
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Hibernate
+* JPA
+* REST APIs
+
+### Microservices & Distributed Systems
+
+* Apache Kafka
+* API Gateway
+* Circuit Breaker Pattern
+* Saga Pattern
+* CQRS
+* Service Discovery
+* Distributed Tracing
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Redis
+
+### Cloud & DevOps
+
+* AWS EC2
+* AWS Lambda
+* AWS S3
+* AWS IAM
+* AWS RDS
+* Docker
+* Nginx
+* GitHub Actions
+
+### Frontend
+
+* React.js
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Engineering Interests
 
-### 🔹 Travel Management System
+* Scalable Backend Architectures
+* Distributed Systems
+* Event-Driven Design
+* Cloud Infrastructure
+* Performance Optimization
+* System Reliability
+* Software Architecture
+* Design Patterns
+
+---
+
+## 🌟 Featured Projects
+
+### AtlasAI – AI-Powered Travel Platform
+
+A cloud-native travel platform built using distributed microservices and modern backend engineering practices.
+
+#### Highlights
 
 * Microservices-based architecture
-* Spring Boot + Django + React
-* AWS + Kafka integration
-* Real-time analytics dashboard
+* Spring Boot backend services
+* Kafka-powered event-driven communication
+* JWT Authentication & Authorization
+* Redis-based caching
+* PostgreSQL & MongoDB
+* AI-powered travel recommendations and itinerary generation
+* Dockerized deployment
+* AWS cloud integration
+* Production-grade design patterns (Saga, CQRS, Circuit Breaker)
 
-### 🔹 Library Management System
+#### Architecture Components
 
-* Java-based backend system
-* Clean architecture & design patterns
+* API Gateway
+* Authentication Service
+* User Service
+* Search Service
+* Booking Service
+* Payment Service
+* Notification Service
+* AI Recommendation Service
 
 ---
 
-## 📈 GitHub Stats
+### DSA & Problem Solving Repository
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshrajsinha25\&show_icons=true\&theme=radical)
+A structured collection of Data Structures and Algorithms solutions covering:
+
+* Arrays
+* Strings
+* Linked Lists
+* Trees
+* Graphs
+* Dynamic Programming
+* Backtracking
+* Heaps
+* Greedy Algorithms
+* Binary Search
+* Sliding Window
+* Systematic Interview Patterns
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Exploring
 
-* 💼 LinkedIn: *(Add your link here)*
-* 📧 Email: *(Add your email here)*
+* Advanced Distributed Systems
+* Kubernetes & Container Orchestration
+* Observability & Monitoring
+* Large-Scale System Design
+* High Availability Architectures
+* Cloud-Native Engineering Patterns
 
 ---
 
-## ⚡ Fun Fact
+## 📈 GitHub Statistics
 
-I enjoy building systems from scratch and turning complex problems into scalable solutions 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshrajsinha25\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrajsinha25\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: [Your LinkedIn Profile]
+* 📧 Email: [Your Email]
+* 🌐 Portfolio: [Your Portfolio Website]
+
+---
+
+## 💡 Engineering Philosophy
+
+> Build systems that are simple to understand, scalable to operate, and resilient under failure.
+
+I believe great software engineering is not just about writing code—it's about designing systems that remain maintainable, observable, and reliable as they grow.
