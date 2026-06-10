@@ -157,9 +157,9 @@ A structured collection of Data Structures and Algorithms solutions covering:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn Profile]
-* 📧 Email: [Your Email]
-* 🌐 Portfolio: [Your Portfolio Website]
+* 💼 LinkedIn: www.linkedin.com/in/adarsh-raj-1479171b6
+* 📧 Email: adarshraj.288@gmail.com
+
 
 ---
 
