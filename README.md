@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Adarsh Raj
+### Backend & GenAI Engineer | Java | Spring Boot | Agentic AI | Distributed Systems | AWS
 
-### Backend Engineer | Java | Distributed Systems | Microservices | AWS
+I am a backend engineer passionate about building scalable, reliable, and production-grade distributed systems — and applying that same engineering rigor to GenAI and Agentic AI applications. My expertise spans cloud-native microservices, event-driven architectures, and high-performance backend services using Java and Spring Boot, alongside hands-on experience building LLM-powered and agentic systems using LangChain, RAG, and FastAPI.
 
-I am a backend engineer passionate about building scalable, reliable, and production-grade distributed systems. My expertise lies in designing cloud-native applications, event-driven architectures, and high-performance backend services using Java and Spring Boot.
-
-I enjoy solving complex engineering challenges, designing resilient systems, and continuously improving my understanding of large-scale software architecture.
+I enjoy solving complex engineering challenges, designing resilient systems, and exploring how autonomous AI agents can be reliably integrated into real-world backend architectures.
 
 ---
 
 ## 🚀 Core Expertise
 
 * Backend Development with Java & Spring Boot
+* GenAI & Agentic AI Systems (LangChain, LangGraph, RAG)
 * Microservices Architecture
 * Distributed Systems Design
 * Event-Driven Architecture (Kafka)
@@ -25,21 +25,28 @@ I enjoy solving complex engineering challenges, designing resilient systems, and
 ## 🛠️ Technology Stack
 
 ### Languages
-
 * Java
 * Python
 * JavaScript
 
 ### Backend
-
 * Spring Boot
 * Spring Security
+* FastAPI
 * Hibernate
 * JPA
 * REST APIs
 
-### Microservices & Distributed Systems
+### GenAI / Agentic AI
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Vector Embeddings
+* AI Agents & Tool-Calling
+* Prompt Engineering
+* LLM APIs (OpenAI / Claude)
 
+### Microservices & Distributed Systems
 * Apache Kafka
 * API Gateway
 * Circuit Breaker Pattern
@@ -49,14 +56,12 @@ I enjoy solving complex engineering challenges, designing resilient systems, and
 * Distributed Tracing
 
 ### Databases
-
-* PostgreSQL
+* PostgreSQL (pgvector)
 * MongoDB
 * MySQL
 * Redis
 
 ### Cloud & DevOps
-
 * AWS EC2
 * AWS Lambda
 * AWS S3
@@ -67,7 +72,6 @@ I enjoy solving complex engineering challenges, designing resilient systems, and
 * GitHub Actions
 
 ### Frontend
-
 * React.js
 
 ---
@@ -75,37 +79,37 @@ I enjoy solving complex engineering challenges, designing resilient systems, and
 ## 🏗️ Engineering Interests
 
 * Scalable Backend Architectures
+* Agentic AI & Autonomous Systems
 * Distributed Systems
 * Event-Driven Design
 * Cloud Infrastructure
 * Performance Optimization
 * System Reliability
-* Software Architecture
-* Design Patterns
+* Software Architecture & Design Patterns
 
 ---
 
 ## 🌟 Featured Projects
 
-### AtlasAI – AI-Powered Travel Platform
+### AtlasAI – AI-Powered Travel Intelligence Platform
 
-A cloud-native travel platform built using distributed microservices and modern backend engineering practices.
+A cloud-native travel platform combining distributed microservices with an Agentic AI layer for intelligent, context-aware travel planning.
 
 #### Highlights
-
 * Microservices-based architecture
 * Spring Boot backend services
+* **Agentic AI layer using LangChain/LangGraph** orchestrating autonomous agents for itinerary planning, retrieval, and recommendation generation
+* **Retrieval-Augmented Generation (RAG)** pipeline with vector embeddings for context-aware, personalized recommendations
+* **FastAPI**-based AI services exposing agent and retrieval endpoints to core Spring Boot services
 * Kafka-powered event-driven communication
 * JWT Authentication & Authorization
 * Redis-based caching
 * PostgreSQL & MongoDB
-* AI-powered travel recommendations and itinerary generation
 * Dockerized deployment
 * AWS cloud integration
 * Production-grade design patterns (Saga, CQRS, Circuit Breaker)
 
 #### Architecture Components
-
 * API Gateway
 * Authentication Service
 * User Service
@@ -113,7 +117,8 @@ A cloud-native travel platform built using distributed microservices and modern 
 * Booking Service
 * Payment Service
 * Notification Service
-* AI Recommendation Service
+* **AI Agent Orchestration Service** (LangChain/LangGraph)
+* **RAG Retrieval Service** (vector DB + PostgreSQL)
 
 ---
 
@@ -138,6 +143,7 @@ A structured collection of Data Structures and Algorithms solutions covering:
 
 ## 📚 Currently Exploring
 
+* Agentic AI & Multi-Agent Orchestration
 * Advanced Distributed Systems
 * Kubernetes & Container Orchestration
 * Observability & Monitoring
@@ -149,22 +155,20 @@ A structured collection of Data Structures and Algorithms solutions covering:
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshrajsinha25\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrajsinha25\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshrajsinha25&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshrajsinha25&layout=compact&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/adarsh-raj-1479171b6
-* 📧 Email: adarshraj.288@gmail.com
-
+* 💼 LinkedIn: [www.linkedin.com/in/adarsh-raj-1479171b6](https://www.linkedin.com/in/adarsh-raj-1479171b6)
+* 📧 Email: adarshrajsinha.777@gmail.com
 
 ---
 
 ## 💡 Engineering Philosophy
 
-> Build systems that are simple to understand, scalable to operate, and resilient under failure.
+> Build systems that are simple to understand, scalable to operate, and resilient under failure — whether they're traditional services or autonomous AI agents.
 
-I believe great software engineering is not just about writing code—it's about designing systems that remain maintainable, observable, and reliable as they grow.
+I believe great software engineering is not just about writing code — it's about designing systems that remain maintainable, observable, and reliable as they grow, and that includes the new generation of AI-driven systems we're all learning to build responsibly.
