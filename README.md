@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adarsh Raj
-### Backend & GenAI Engineer | Java | Spring Boot | Agentic AI | Distributed Systems | AWS
+### Backend & GenAI Engineer | Java | Spring Boot | Agentic AI | Distributed Systems | AWS | FastApi | Python
 
 I am a backend engineer passionate about building scalable, reliable, and production-grade distributed systems — and applying that same engineering rigor to GenAI and Agentic AI applications. My expertise spans cloud-native microservices, event-driven architectures, and high-performance backend services using Java and Spring Boot, alongside hands-on experience building LLM-powered and agentic systems using LangChain, RAG, and FastAPI.
 
@@ -73,6 +73,7 @@ I enjoy solving complex engineering challenges, designing resilient systems, and
 
 ### Frontend
 * React.js
+* Angular
 
 ---
 
@@ -122,24 +123,7 @@ A cloud-native travel platform combining distributed microservices with an Agent
 
 ---
 
-### DSA & Problem Solving Repository
 
-A structured collection of Data Structures and Algorithms solutions covering:
-
-* Arrays
-* Strings
-* Linked Lists
-* Trees
-* Graphs
-* Dynamic Programming
-* Backtracking
-* Heaps
-* Greedy Algorithms
-* Binary Search
-* Sliding Window
-* Systematic Interview Patterns
-
----
 
 ## 📚 Currently Exploring
 
